@@ -4,7 +4,7 @@ This project focuses on performing a detailed exploratory data analysis (EDA) on
 The goal is to identify key business insights such as sales and profit trends, category performance, customer behavior, and regional contributions.
 
 ---
-
+<a href="https://colab.research.google.com/drive/10QYWWXUg9v2qPUXFYcu4EwiHxTsoqMML?usp=sharing" target="_blank">Colab Demo </a>
 ## Objectives
 - Understand sales, profit, and discount patterns across different regions, categories, and segments.  
 - Identify top-performing products and customers driving revenue.  
@@ -66,4 +66,4 @@ You can upload the CSV file directly in the Colab notebook when prompted.
 ## Conclusion
 This analysis provides a clear understanding of retail performance and profitability patterns.  
 The approach can be adapted for real-world business analytics tasks involving customer segmentation, sales forecasting, or performance reporting.
-
+<a href="https://colab.research.google.com/drive/10QYWWXUg9v2qPUXFYcu4EwiHxTsoqMML?usp=sharing" target="_blank"> Link to colab notebook to visualize demo </a>
